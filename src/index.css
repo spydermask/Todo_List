@@ -1,0 +1,117 @@
+.list{
+  text-align: center;
+  color: aquamarine;
+  size: 300%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+
+}
+.bb{
+  align-items: center;
+  border: 100% solid  black;
+  box-shadow: 5px 5px 5px rgb(235, 232, 232);
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+  border-radius: 10px;
+  max-width: fit-content;
+  display: inline-block;
+  
+
+}
+
+.h{
+  color:white;
+  background-color:green;
+}
+.center {
+  text-align: center;
+  
+
+}
+.bb .submit{
+text-align: center;
+color: aliceblue;
+background-color: aqua;
+font-family: 'Times New Roman', Times, serif;
+width: 100%;
+border: none;
+cursor: pointer;
+border-radius: 5%;
+
+
+}
+
+.bb .input{
+outline: none;
+display: inline-block;
+border: none;
+}
+
+.submit{
+
+  color: aliceblue;
+  background-color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+  width: 10%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5%;
+  padding: 1px;
+  margin: 10px;
+
+}
+
+.can{
+  color: aliceblue;
+  background-color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+  width: 10%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5%;
+  padding: 1px;
+  margin: 10px;
+
+}
+
+.submt{
+
+  color: aliceblue;
+  background-color: aqua;
+  font-family: 'Times New Roman', Times, serif;
+  width: 10%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5%;
+  padding: 1px;
+  margin: 10px;
+}
+
+.e{
+
+  color: aliceblue;
+  background-color: rgb(255, 51, 0);
+  font-family: 'Times New Roman', Times, serif;
+  width: 10%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5%;
+  padding: 1px;
+  margin: 10px;
+}
+
+.d{
+
+  color: aliceblue;
+  background-color: rgb(255, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  width: 10%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5%;
+  padding: auto;
+  margin: 10px;
+  text-align: center;
+
+}
